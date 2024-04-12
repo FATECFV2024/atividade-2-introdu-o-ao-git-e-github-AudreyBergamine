@@ -1,0 +1,7 @@
+Nome = "Audrey";
+RGM = "2920482221028";
+Idade = 32;
+gitHub = "@AudreyBergamine";
+linkedin = "Audrey Bergamine";
+curso = "Analise e Desenvolvimento de Sistemas";
+turma = "4o Semestre";
